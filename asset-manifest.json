@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/homework-3-Mirgul/static/css/main.fe4e6093.css",
+    "main.js": "/homework-3-Mirgul/static/js/main.e09bb4fe.js",
+    "static/js/787.6ebbfd90.chunk.js": "/homework-3-Mirgul/static/js/787.6ebbfd90.chunk.js",
+    "index.html": "/homework-3-Mirgul/index.html",
+    "main.fe4e6093.css.map": "/homework-3-Mirgul/static/css/main.fe4e6093.css.map",
+    "main.e09bb4fe.js.map": "/homework-3-Mirgul/static/js/main.e09bb4fe.js.map",
+    "787.6ebbfd90.chunk.js.map": "/homework-3-Mirgul/static/js/787.6ebbfd90.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe4e6093.css",
+    "static/js/main.e09bb4fe.js"
+  ]
+}
